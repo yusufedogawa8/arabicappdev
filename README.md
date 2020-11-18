@@ -1,6 +1,6 @@
-# bahasa_arab
+# Front-End Aplikasi 'Learning Arabic'
 
-A new Flutter project.
+Flutter project for UAS.
 
 ## Getting Started
 
