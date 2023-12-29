@@ -24,7 +24,7 @@ Proyek ini adalah aplikasi pembelajaran bahasa Arab berbasis Flutter yang dikemb
 
 1. Clone repositori ini ke lokal mesin Anda.
    ```bash
-   git clone https://github.com/username/nama-repositori.git
+   git clone https://github.com/yusufedogawa8/arabicappdev.git
 2. Buka proyek menggunakan Flutter di editor pilihan Anda.
 3. Pastikan dependencies terinstall dengan menjalankan perintah:
    ```bash
